@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there, I'm Muhammed Lagha 👋
+
+Welcome to my GitHub profile! I'm a passionate developer who loves coding and building amazing projects.
+
 
 <!--
 **Muhammed-Lagha/Muhammed-Lagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
