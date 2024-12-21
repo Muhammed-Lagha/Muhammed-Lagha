@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding and building amazing projects.
 
+## 📈 GitHub Stats
 
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Lagha&show_icons=true&theme=radical)
 <!--
 ## About Me
 
